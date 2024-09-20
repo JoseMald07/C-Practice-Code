@@ -17,6 +17,8 @@ class Program
         //Loops.HealthLoop();
         //int result2 = Return1.PrintSquare(5);
         //Console.WriteLine(result2);
-        Loops.NestedLoops();
+        //Loops.NestedLoops();
+        //Arrays.Array1(args);
+        List.List1(args);
     }
 }
