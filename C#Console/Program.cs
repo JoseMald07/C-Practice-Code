@@ -19,6 +19,8 @@ class Program
         //Console.WriteLine(result2);
         //Loops.NestedLoops();
         //Arrays.Array1(args);
-        List.List1(args);
+        //List.List1(args);
+        //Dictionary1.Dict1(args);
+        Dictionary1.Dict2(args);
     }
 }
